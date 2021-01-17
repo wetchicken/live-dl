@@ -1,5 +1,5 @@
 config:
-  # Runing mode
+  # Running mode
   #
   # - download: default mode, monitor URL and download when available
   # - metadata: download JSON metadata only
@@ -9,7 +9,7 @@ config:
   # Output directory
   # There's no need to quote or escape your path, examples:
   #
-  # - ~/Downlaods
+  # - ~/Downloads
   # - ~/Files/VTuber Videos
   # - ~/My Videos/Live Recordings
   #
